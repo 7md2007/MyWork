@@ -30,4 +30,5 @@ One of my major projects is **TransLy** — a voice translation platform that co
 This repo is not a single project but a showcase of my progress, creativity, and exploration across different programming languages.
 
 ## 📫 Contact
-- GitHub: [https://github.com/7md2007](https://github.com/7md2007)
+- 📧 Email: h.m.hamad.k@gmail.com  
+- 🖥️ GitHub: [7md2007](https://github.com/7md2007)  
